@@ -1,6 +1,10 @@
 <<<<<<< HEAD
-Create a new branch is quiick And simple.
+<<<<<<< HEAD
+Create a new branch is quick.
 =======
-Create a new branch is quiick And simple.
-测试~
+Create a new branch is quick.
 >>>>>>> feature1
+=======
+Create a new branch is quick.
+测试2~
+>>>>>>> dev
