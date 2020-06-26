@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-Create a new branch is quick.
+Create a new branch is quick. a1
 =======
 Create a new branch is quick.
 >>>>>>> feature1
